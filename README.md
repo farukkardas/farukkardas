@@ -7,13 +7,6 @@
 <a href="https://twitter.com/farukkardas" ><img src="https://img.shields.io/twitter/follow/farukkardas.svg?style=social" /> </a>
 <br>
 
-
-<a href="https://github.com/farukkardas/License-panel/stargazers"><img src="https://img.shields.io/github/stars/farukkardas/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/farukkardas/License-panel/network/members"><img src="https://img.shields.io/github/forks/farukkardas/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/farukkardas/License-panel/pulls"><img src="https://img.shields.io/github/issues-pr/farukkardas/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/farukkardas/License-panel/issues"><img src="https://img.shields.io/github/issues/farukkardas/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/farukkardas/License-panel/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/farukkardas/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/farukkardas/License-panel/blob/master/LICENSE"><img src="https://img.shields.io/github/license/farukkardas/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farukkardas&layout=compact)](https://github.com/farukkardas/github-readme-stats)
   <br>
